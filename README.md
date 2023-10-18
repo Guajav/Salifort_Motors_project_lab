@@ -23,7 +23,7 @@ financial outlays.
 # Features
 
 The main features of this project is the use of Python with scientific statistic packages, including matplotlib, sklearn and xgboost to present my analysis. 
-The link to my supporting visualisations is within a Python notebook file. 
+The link to my supporting visualisations is within a Jupyter notebook file. 
 
 
 # Dependencies
